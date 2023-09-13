@@ -34,7 +34,7 @@ Explore my portfolio and discover my skills, experiences and projects developed 
 
 ## View My Projects
 
-Ready to see my work? [Click here](https://anuproybca.github.io/Portfolio/) to view my React portfolio and discover how I can bring your next project to life.
+Ready to see my work? [Click here](https://anupr0y.github.io/Portfolio/) to view my React portfolio and discover how I can bring your next project to life.
 
 
 ## Getting Started
